@@ -1,0 +1,1 @@
+.gl1:before,.gl2:before,.gl3:after,.gl4:after{content:attr(name)}
