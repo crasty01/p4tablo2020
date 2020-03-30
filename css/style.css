@@ -226,7 +226,7 @@ span {
 
 .info .nickname {
   text-transform: uppercase;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 .info .nickname::before {
